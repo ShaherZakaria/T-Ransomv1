@@ -1,0 +1,2 @@
+api_id=12345678
+api_hash=sfsdfsdggfdgfdfdfbfdbdfbfd
